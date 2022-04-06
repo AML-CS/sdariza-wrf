@@ -1,0 +1,3 @@
+*.grib2
+WRF/
+workspace/output/
