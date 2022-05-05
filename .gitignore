@@ -1,5 +1,4 @@
 *.grib2
-WRF/
 workspace/
 *.nc
 workspace
