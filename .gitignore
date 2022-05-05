@@ -1,3 +1,8 @@
 *.grib2
 WRF/
-workspace/output/
+workspace/
+*.nc
+workspace
+202201/data/*.nc
+202201/Interpolation/*.nc
+Tesis/
